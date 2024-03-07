@@ -197,7 +197,7 @@ knitr::include_graphics("modelo_cotas.jpg")
 ---
 # Considerações finais
 
-- Onde há o maior e mais consistente gap entre homens e mulheres são nos temas relacionados aos homossexuais. São 15 e 13 pontos percentuais que separam as opiniões favoráveis sobre a adoção de crianças por um casal gay e o casamento civil igualitário, respectivamente. Nas multivariadas, o efeito do gênero não é substancialmente diminuído com a adição de outros fenômenos importantes para o tema como valores igualitários.
+- Onde há o maior e mais consistente gap entre homens e mulheres são nos temas relacionados aos homossexuais. São 15 e 13 pontos percentuais que separam as opiniões favoráveis sobre a adoção de crianças por um casal gay e o casamento civil igualitário, respectivamente. Nas multivariadas, o efeito do gênero permanece.
 
 - Ser mulher, quando comparado aos homens, esta relacionado a maiores chances de apoio a legalização do aborto; do fomento da discussão sobre desigualdade de gênero; da proibição de vendas de armas e a adoção de cotas raciais.  
 
