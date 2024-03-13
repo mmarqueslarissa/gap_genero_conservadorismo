@@ -163,12 +163,6 @@ knitr::include_graphics("modelo_adocao.png")
 ```
 
 ---
-#### Probabilidades preditas: adoção de crianças por um casal gay
-```{r out.height = "500px", out.width='700px', echo=F, fig.align='center'}
-knitr::include_graphics("prob_pred_casamento_gay.png")
-```
-
----
 class: title-slide-custom, center
 
 <br><br><br><br><br><br><br><br><br>
@@ -206,7 +200,7 @@ knitr::include_graphics("modelo_cotas.jpg")
 - Homens e mulheres não divergem sobre a descriminalização das drogas, militarização das escolas públicas e nas opiniões sobre o programa bolsa família.
 
 --
-- **Mulheres parecem manifestar atitudes voltadas ao espectro progressista, ou seja, elas parecem estar um pouco menos ligadas às temáticas que caracterizam um conservador clássico do país nos últimos cinco anos.**
+- **Mulheres parecem manifestar atitudes voltadas ao espectro progressista, ou seja, parecem estar um pouco menos ligadas às temáticas que caracterizam um conservador clássico do país nos últimos cinco anos.**
 
 
 ---
