@@ -141,52 +141,6 @@ knitr::include_graphics("tabela_resumo_efeitos_genero.jpg")
 ```
 **Nota:** Cor verde indica efeito positivo, vermelha indica efeito negativo, cinza ausência de significância estatística e branca quando a variável não é mensurada no modelo.
 
----
-class: title-slide-custom, center
-
-<br><br><br><br><br><br><br><br><br>
-## Temas sociais e morais tradicionais
-
----
-```{r out.height = "680px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_aborto.png")
-```
-
----
-```{r out.height = "680px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_casamento.png")
-```
-
----
-```{r out.height = "680px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_adocao.png")
-```
-
----
-class: title-slide-custom, center
-
-<br><br><br><br><br><br><br><br><br>
-## Temas sobre lei e ordem
-
----
-```{r out.height = "630px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_armas_fogo.jpg")
-```
----
-
-```{r out.height = "680px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_morte.png")
-```
----
-class: title-slide-custom, center
-
-<br><br><br><br><br><br><br><br><br>
-## Temas sobre políticas sociais e posições econômicas
-
----
-```{r out.height = "630px", out.width='450px', echo=F, fig.align='center'}
-knitr::include_graphics("modelo_cotas.jpg")
-```
 
 ---
 # Considerações finais
